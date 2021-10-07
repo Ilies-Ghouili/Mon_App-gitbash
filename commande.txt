@@ -1,0 +1,7 @@
+ni/touch nom.extension
+move /mv now_rep new_nom_rep
+cd change directory
+../ parent directory 
+./ le repertoire courant 
+rmdir effacer un dossier
+mkdir c creer un dossier
